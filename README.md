@@ -1,22 +1,32 @@
-### Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on a React.js Project (includes Express.js, MongoDB)<br>
+👯 I’m looking to collaborate on exciting web development projects that challenge my skills and push the boundaries of what's possible on the web.<br>
+🤝 I’m looking for help with optimizing database performance and scaling web applications to handle a high volume of users.<br>
+🌱 I’m currently learning about databases like MongoDB and Firebase to enhance my expertise in data storage and retrieval.<br>
+💬 Ask me about Full Stack Web Development, from front-end technologies like HTML, CSS, and JavaScript to back-end development with Node.js and Express.js. I'm also well-versed in database management, REST APIs, and deployment strategies.<br>
+⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!<br>
+🌐 Portfolio: <a href="https://adilrza0.github.io" _target="blank">My Portfolio</a>
 
-I'm Adil Raza, a passionate full stack web developer with a love for crafting beautiful and functional web applications. My coding journey has led me to become proficient in a variety of technologies and tools, allowing me to create dynamic and interactive websites.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-maske) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/adilrza0) 
 
-🚀 My Tech Stack:
-- Frontend: JavaScript, React, HTML, CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB
-- Other: [Any other relevant technologies]
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adilrza0&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adilrza0&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adilrza0&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-🌐 Whether it's designing responsive user interfaces, optimizing backend performance, or diving into the intricacies of databases, I thrive on solving complex challenges and bringing innovative ideas to life. I believe in the power of clean code, thoughtful design, and continuous learning.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adilrza0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-📫 Let's connect and collaborate on exciting projects! Feel free to reach out to me here on GitHub or find me on [LinkedIn/Twitter/Personal Website], where I share my coding adventures and insights into the ever-evolving world of web development.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🔗 Portfolio: https://adilrza0.github.io
-📧 Email: adilrza0@gmail.com
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adilrza0&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
-💼 LinkedIn: https://www.linkedin.com/in/adil-raza-0aa508144/
+---
+[![](https://visitcount.itsvg.in/api?id=adilrza0&label=Checked%20out%20by&color=5&pretty=false)](https://visitcount.itsvg.in)
 
-Thanks for stopping by, and I look forward to exploring the limitless possibilities of the web with you!
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,10 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on a React.js Project (includes Express.js, MongoDB)<br>
-👯 I’m looking to collaborate on exciting web development projects that challenge my skills and push the boundaries of what's possible on the web.<br>
-🤝 I’m looking for help with optimizing database performance and scaling web applications to handle a high volume of users.<br>
-🌱 I’m currently learning about databases like MongoDB and Firebase to enhance my expertise in data storage and retrieval.<br>
-💬 Ask me about Full Stack Web Development, from front-end technologies like HTML, CSS, and JavaScript to back-end development with Node.js and Express.js. I'm also well-versed in database management, REST APIs, and deployment strategies.<br>
-⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!<br>
+<h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Adil Raza <img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
+  
+<p align="center">
+<a align="center" href="https://github.com/shubham-masai"><img src="https://readme-typing-svg.herokuapp.com?color=0A88B3&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Full+Stack+Web+Developer." /></a>
+
+<p align="center">
+
+</p>
+I'm an Aspiring MERN Developer based in New Delhi, India. I'm passionate about Computer science and enjoy Coding. Here's a little more about me:
+
+- 🔭 I’m currently working on a React.js Project (includes Express.js, MongoDB)<br>
+- 👯 I’m looking to collaborate on exciting web development projects that challenge my skills and push the boundaries of what's possible on the web.<br>
+- 🤝 I’m looking for help with optimizing database performance and scaling web applications to handle a high volume of users.<br>
+- 🌱 I’m currently learning about databases like MongoDB and Firebase to enhance my expertise in data storage and retrieval.<br>
+- 💬 Ask me about Full Stack Web Development, from front-end technologies like HTML, CSS, and JavaScript to back-end development with Node.js and Express.js. I'm also well-versed in database management, REST APIs, and deployment strategies.<br>
+
 🌐 Portfolio: <a href="https://adilrza0.github.io" _target="blank">My Portfolio</a>
 
 ## 🌐 Socials:
@@ -20,8 +29,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adilrza0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adilrza0&limit=5&theme=discord&combine_all_yearly_contributions=true)

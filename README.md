@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">Hi there <img src="https://c.tenor.com/z2xJqhCpneIAAAAM/wave-hand.gif" width="40px">, I'm Adil Raza <img src="https://img.icons8.com/external-others-cattaleeya-thongsriphong/344/external-Boy-user-with-laptop-color-line-others-cattaleeya-thongsriphong.png"  width="60px" /></h1>
   
 <p align="center">
@@ -15,7 +15,6 @@ I'm an Aspiring MERN Developer based in New Delhi, India. I'm passionate about C
 - 🌱 I’m currently learning about databases like MongoDB and Firebase to enhance my expertise in data storage and retrieval.<br>
 - 💬 Ask me about Full Stack Web Development, from front-end technologies like HTML, CSS, and JavaScript to back-end development with Node.js and Express.js. I'm also well-versed in database management, REST APIs, and deployment strategies.<br>
 
-=======
 # 💫 About Me:
 
 Hi, I’m Adil Raza and I’m a full stack MERN developer with experience in JavaScript, React, Node.js, MongoDB, and AWS. I enjoy building web applications that are fast, scalable, and user-friendly

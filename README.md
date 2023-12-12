@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Adil Raza and I’m a full stack developer with experience in JavaScript, React, Node.js, MongoDB, and AWS. I enjoy building web applications that are fast, scalable, and user-friendly
+## Hi, I’m Adil Raza and I’m a full stack MERN developer with experience in JavaScript, React, Node.js, MongoDB, and AWS. I enjoy building web applications that are fast, scalable, and user-friendly
 
 🔭 I’m currently working on a React.js Project (includes Express.js, MongoDB)<br>
 👯 I’m looking to collaborate on exciting web development projects that challenge my skills and push the boundaries of what's possible on the web.<br>
